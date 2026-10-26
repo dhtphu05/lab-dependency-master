@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Thư viện tối ưu hóa các phép toán đại số cho sinh viên kỹ nghệ phần mềm.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "author": "Đoàn Hoàng Thiên Phú",
   "license": "MIT",
   "publishConfig": {
